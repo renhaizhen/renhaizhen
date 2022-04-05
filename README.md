@@ -2,6 +2,10 @@
 # 世间皆行皆念
 # 莫过天云一梦
 
+```
+## 凡事各有所见
+## 切莫以己而论
+```
 <!--
 **renhaizhen/renhaizhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
