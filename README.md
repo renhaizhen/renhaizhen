@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|品种 | 24h量 | avg量| 比例| 1m振幅|
+|      品种 | 24h量 | avg量| 比例| 1m振幅|
 |---- | ---- | ----|---- | ----|
 | AVAX-USDT | 0.78| 0.40 |98% |0.17%|
 
