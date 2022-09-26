@@ -3,9 +3,6 @@
 # 莫过天云一梦
 
 
-### 凡事各有所见
-### 切莫以己而论
-
 <!--
 **renhaizhen/renhaizhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,7 +18,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Renhaizhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=renhaizhen&count_private=true&theme=merko&show_icons=true)
-
-| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-|  ----  | ----  |----  | ----  |----  | ----  |----  | ----  |
-| ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
