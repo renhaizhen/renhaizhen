@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Renhaizhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=renhaizhen&count_private=true&theme=merko&show_icons=true)
-<p align="center">
+![Renhaizhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=renhaizhen&count_private=true&theme=merko&show_icons=true&include_all_commits=true&hide=prs,issues)
+<p align="left">
   <a href="https://github.com/renhaizhen">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=renhaizhen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
   </a>
 </p>
  
-<p align="center">
+<p align="left">
   <a href="https://github.com/renhaizhen">
     <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renhaizhen&layout=compact&langs_count=8&theme=algolia"/>
   </a>
