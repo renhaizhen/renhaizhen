@@ -18,3 +18,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Renhaizhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=renhaizhen&count_private=true&theme=merko&show_icons=true)
+<p align="center">
+  <a href="https://github.com/renhaizhen">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=renhaizhen&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+  </a>
+</p>
+ 
+<p align="center">
+  <a href="https://github.com/renhaizhen">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=renhaizhen&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+  <a href="https://renhaizhen.github.io">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=renhaizhen&repo=renhaizhen.github.io&theme=algolia" />
+  </a>
+</p>
